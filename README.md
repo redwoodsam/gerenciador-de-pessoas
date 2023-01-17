@@ -1,5 +1,5 @@
-# gerenciador-de-pessoas
-Desafio Java Spring Boot Attornatus - API para cadastro de pessoas.
+# API de cadastro de pessoas
+Desafio Java Spring Boot Attornatus
 
 Como executar:
 
